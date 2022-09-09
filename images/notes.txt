@@ -1,2 +1,2 @@
 Notes:
-{} Write your first program in C++
+{} My first program C++
